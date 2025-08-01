@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Michael, I am a Frontend React developer with 2 years+ of experience in writing code. 
+My name is Michael, I am a Frontend React developer with over 2 years of experience in writing code. 
 
-- 🔭 I currently build custom websites for businesses and individuals ...
+- 🔭 I currently build custom websites for businesses and individuals 
 - 🌱 I recently built a webapp that detects the mood of the user using a zero-shot classification model and returns a list of playlists that match the user's mood. Check it out [here](https://github.com/MichaelDunsin/Music-Vibe-Matcher)
-- 👯 I’m looking to collaborate on amazing projects ...
+- 👯 I’m looking to collaborate on amazing projects 
 <!--
 **MichaelDunsin/michaeldunsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
